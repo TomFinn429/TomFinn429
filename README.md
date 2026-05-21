@@ -45,8 +45,5 @@ I am a frontend / full-stack learner who enjoys turning complex problems into cl
 - [geekgeekrun](https://github.com/TomFinn429/geekgeekrun)  
   Automation workflow exploring Puppeteer, Electron, and AI-assisted job tools.
 
-- [DCWriter-OG](https://github.com/TomFinn429/DCWriter-OG)  
-  Writing and productivity tool experiment.
-
 - [emr-web-editor](https://github.com/TomFinn429/emr-web-editor)  
   Web editor practice around medical record editing scenarios.
