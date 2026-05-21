@@ -1,4 +1,4 @@
-# Hi, I'm TomFinn
+# Hello world, I'm TomFinn
 
 I am a frontend / full-stack learner who enjoys turning complex problems into clear, reusable tools and applications.
 
@@ -11,13 +11,25 @@ I am a frontend / full-stack learner who enjoys turning complex problems into cl
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![C%23](https://img.shields.io/badge/C%23-68217a?style=for-the-badge&logo=csharp&logoColor=white)
 
-## About me
+## Reach me
 
-- I am building ECG visualization components, admin systems, and AI automation tools.
-- I care about clean interfaces, reusable modules, and tools that are actually pleasant to use.
-- I am currently learning Vue 3, TypeScript, React, Vite, frontend engineering, and AI-assisted development.
-- My focus is making things simpler, understandable, maintainable, and useful.
-- Long-term goal: become a better full-stack developer and build products with real value.
+- QQ: 75621980
+- WeChat: TTFF19981120
+- E-mail: [tangfan_xh@163.com](mailto:tangfan_xh@163.com)
+
+## Introduce
+
+- Curious about useful tools and clean interfaces
+- Love to learn new things and turn ideas into working products
+- Building ECG visualization components, admin systems, and AI automation tools
+- Focused on making things simpler, understandable, maintainable, and reusable
+- Currently learning how to become a better full-stack developer
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomFinn429/TomFinn429/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomFinn429/TomFinn429/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TomFinn429/TomFinn429/output/pacman-contribution-graph.svg">
+</picture>
 
 ## Featured projects
 
@@ -44,4 +56,3 @@ I am a frontend / full-stack learner who enjoys turning complex problems into cl
 ![TomFinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomFinn429&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomFinn429&layout=compact&hide_border=true)
-
