@@ -50,9 +50,3 @@ I am a frontend / full-stack learner who enjoys turning complex problems into cl
 
 - [emr-web-editor](https://github.com/TomFinn429/emr-web-editor)  
   Web editor practice around medical record editing scenarios.
-
-## GitHub stats
-
-![TomFinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomFinn429&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomFinn429&layout=compact&hide_border=true)
